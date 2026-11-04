@@ -1,0 +1,64 @@
+{
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "colorGroups": [
+    {
+      "query": "path:Engineering",
+      "color": {
+        "a": 1,
+        "rgb": 5217758
+      }
+    },
+    {
+      "query": "path:Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 2275535
+      }
+    },
+    {
+      "query": "path:Reading",
+      "color": {
+        "a": 1,
+        "rgb": 15246141
+      }
+    },
+    {
+      "query": "path:Kitchen",
+      "color": {
+        "a": 1,
+        "rgb": 15227148
+      }
+    },
+    {
+      "query": "path:Health",
+      "color": {
+        "a": 1,
+        "rgb": 4243543
+      }
+    },
+    {
+      "query": "path:Travel",
+      "color": {
+        "a": 1,
+        "rgb": 15092096
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 9926138
+      }
+    },
+    {
+      "query": "path:Daily",
+      "color": {
+        "a": 1,
+        "rgb": 8818326
+      }
+    }
+  ]
+}
